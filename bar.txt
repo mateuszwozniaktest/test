@@ -1,3 +1,4 @@
 function bar() {
     console.log('bar');
 }
+// comment
