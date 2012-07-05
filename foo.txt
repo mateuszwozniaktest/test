@@ -3,5 +3,5 @@ function foo() {
    while (--i) {
         console.log(i);
    }
-   console.log('ready');
+   console.log('You should log finish!');
 }
