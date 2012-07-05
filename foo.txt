@@ -3,4 +3,5 @@ function foo() {
    while (--i) {
         console.log(i);
    }
+   console.log('ready');
 }
