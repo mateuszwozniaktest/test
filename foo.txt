@@ -6,3 +6,7 @@ function foo() {
    console.log('You should log finish!');
 }
 // comment
+
+function foo2() {
+    console.log('new function');
+}
